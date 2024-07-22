@@ -1,4 +1,2 @@
-nombre: de usuarii: Victor garcia
-correo: Victo.elcatire75@gmail.com
-
-
+usuario: Victor Garcia
+correo: victo.elcatire75@gmail.com
